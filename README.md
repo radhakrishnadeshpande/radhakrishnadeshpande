@@ -1,313 +1,152 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Radha%20Krishna%20Deshpande&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MS%20by%20Research%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20OCR%20%26%20NLP%20Specialist&descAlignY=58&descSize=16&descColor=a78bfa" width="100%"/>
+<!-- Animated header using capsule render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2a,100:2d6a4f&height=200&section=header&text=Radha%20Krishna%20Deshpande&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20IIIT%20Hyderabad&descAlignY=58&descSize=16&descColor=c8f0d8&animation=fadeIn" alt="header"/>
 
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🤖+Building+Intelligent+OCR+%26+NLP+Systems;🌐+Cross-Lingual+IR+%7C+LLM+Reasoning+%7C+Vector+Search;🚀+IIIT+Hyderabad+%7C+Researcher+%26+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&pause=1000&color=2d6a4f&center=true&vCenter=true&repeat=true&width=500&lines=OCR+%7C+NLP+%7C+Information+Retrieval;Building+systems+that+read+%26+understand;MS+by+Research+%40+IIIT+Hyderabad;Label-Free+Indic+OCR+%E2%80%A2+ICVGIP+2025" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=radhakrishnadeshpande&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/radhakrishnadeshpande">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/radhakrishnadeshpande">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:radhakrishnadeshpande@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radha-krishna-deshpande/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhakrishnadeshpande@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/radhakrishnadeshpande?style=for-the-badge&color=1a3a2a&labelColor=2d6a4f)](https://github.com/radhakrishnadeshpande?tab=followers)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
 ```python
-class RadhaKrishna:
-    name       = "Radha Krishna Deshpande"
-    location   = "Hyderabad, India 🇮🇳"
-    education  = "MS by Research, CSE @ IIIT Hyderabad (2025–2027)"
-    role       = "Project Technical Personnel (L1) @ CVIT, IIIT-H"
-    focus      = ["OCR Systems", "NLP", "Cross-Lingual IR", "LLMs", "Computer Vision"]
-    languages  = ["Python 🐍", "Rust 🦀", "C++", "Java", "SQL"]
-    passion    = "Turning noisy document images into searchable, intelligent knowledge"
-    
-    def greet(self):
-        return "Let's build something extraordinary together! 🚀"
+rkd = {
+    "name"      : "Radha Krishna Deshpande",
+    "role"      : "ML Engineer · Junior Researcher",
+    "institute" : "IIIT Hyderabad (MS by Research, CSE — 2025–2027)",
+    "lab"       : "CVIT — Centre for Visual Information Technology",
+    "focus"     : ["OCR", "Multilingual NLP", "Information Retrieval", "LLMs"],
+    "publication": "Label-Free Adaptation of Indic Printed OCR @ ICVGIP 2025",
+    "currently" : "Building CLiGRA — cross-lingual retrieval + QA for Indic archives",
+    "ask_me_about": ["OCR pipelines", "Elasticsearch", "Rust + databases", "Tamil scripts"],
+    "fun_fact"  : "I wrote a DB projection operator in Rust that's 10× faster & 256× more memory-efficient",
+}
 ```
 
 ---
 
-## 🎓 Education
+## 🔭 What I'm Working On
 
-<table>
-<tr>
-<td>
+<!-- Project cards via shields.io -->
 
-🏛️ **MS by Research — Computer Science & Engineering**  
-📍 International Institute of Information Technology, Hyderabad  
-📅 July 2025 – Expected 2027
-
-</td>
-<td>
-
-🎓 **B.Tech — IT Specialization (DTDP)**  
-📍 Jawaharlal Nehru Architecture and Fine Arts University, Hyderabad  
-📅 July 2019 – June 2023
-
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **CLiGRA** 🌐 | Hybrid cross-lingual retrieval + QA for Hindi, English & Punjabi archives | `Python` `FAISS` `Django` `NLP` |
+| **Indic OCR Adaptation** 📄 | Label-free self-supervised domain adaptation for low-resource Indic scripts | `PyTorch` `OCR` `SSL` |
+| **RookDB** 🦾 | Optimized projection operator with adaptive reordering — 10× speedup on 1B rows | `Rust` `Rayon` `SIMD` |
 
 ---
 
-## 💼 Work Experience
-
-<details open>
-<summary><b>🔬 Project Technical Personnel (L1), Junior Engineer — CVIT, IIIT Hyderabad (Aug 2024 – Present)</b></summary>
-
-<br/>
-
-| Area | What I Built |
-|---|---|
-| 🧠 **OCR Fine-Tuning** | Fine-tuned CRNN-based OCR models on domain-specific & noisy data |
-| ⚡ **Large-Scale Pipelines** | High-throughput OCR pipelines extracting text from thousands of document images |
-| 🔍 **Search Optimization** | Elasticsearch systems with custom analyzers & schema tuning |
-| 🚀 **Inference Optimization** | Reduced latency via architecture-level optimizations & batch processing |
-| 🤖 **End-to-End Automation** | Automated pipelines for data prep → training → evaluation → deployment |
-| 🏭 **Production Integration** | Integrated OCR + search backends into real-world research applications |
-
-</details>
-
-<details>
-<summary><b>🛠️ Junior Engineer — CVIT, IIIT Hyderabad (May 2024 – Aug 2024)</b></summary>
-
-<br/>
-
-- 🕷️ **Web Scraping & Data Collection** — Extracted and organized large datasets for ML training
-- 🤖 **Model Development & Fine-Tuning** — Built and iterated on ML models for specialized tasks
-
-</details>
-
-<details>
-<summary><b>📚 Subject Matter Expert — Chegg India (Feb 2024 – May 2024)</b></summary>
-
-<br/>
-
-- Guided students through CSE topics: open-source software, computer networks, and problem-solving
-
-</details>
-
----
-
-## 🚀 Projects
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 🌐 CLiGRA — Cross-Lingual Multilingual Archive Navigation *(Ongoing)*
-![Status](https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-FAISS-blueviolet?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-Reasoning-blue?style=flat-square)
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-> **Problem:** Large multilingual archives (Hindi, English, Punjabi) suffer from OCR noise, language mismatch, and lack of contextual grounding, making information retrieval unreliable.
+**ML & AI**
 
-> **Solution:** Designed **CLiGRA** — a hybrid cross-lingual retrieval & QA pipeline combining lexicon-based search + LLM reasoning. Retrieves multilingual documents via keyword + semantic similarity, and generates grounded answers in the user's query language.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-`Python` `NLP` `OCR` `FAISS` `Vector Databases` `Django REST API` `NLTK`
+**Infra & Backend**
 
----
-
-<div align="center">
-
-### ✍️ Tamil Handwritten Character Recognition
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat-square&logo=github)](https://github.com/radhakrishnadeshpande)
-
-</div>
-
-> **Problem:** Tamil OCR is hard — 156 character classes, handwriting variation, visually similar characters.
-
-> **Solution:** CNN-based recognition system trained on uTHCD dataset. Interactive **Streamlit** app with freehand drawing canvas, image upload, practice mode, and confidence scores.
-
-`Python` `OpenCV` `NumPy` `scikit-image` `CNN` `Streamlit`
-
----
-
-<div align="center">
-
-### 🗄️ RookDB — Optimized Projection Operator
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat-square&logo=github)](https://github.com/radhakrishnadeshpande)
-
-</div>
-
-> **Problem:** Traditional DB projection is inefficient on billion-row workloads — high memory, slow speed.
-
-> **Solution:** Four adaptive strategies — **EAGER**, **STREAMING-BATCHED**, **PARALLEL-HYBRID**, **COLUMNAR-STAGING** — delivering **10× speedup** and **256× lower memory usage**.
-
-`Rust` `Rayon` `SIMD Vectorization` `Parallelization` `Read-Ahead Buffering`
-
----
-
-<div align="center">
-
-### 🌌 Gravitational Lensing Feature Detection
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat-square&logo=github)](https://github.com/radhakrishnadeshpande)
-
-</div>
-
-> **Solution:** Automated image-processing pipeline: preprocessing → background subtraction → edge detection → Hough Transform → contour geometric analysis.
-
-`Python` `OpenCV` `NumPy` `scikit-image` `Hough Transform`
-
----
-
-<div align="center">
-
-### 🏢 DTDP Department Management System &nbsp; | &nbsp; ☁️ Cloud-Based POS with Face Recognition
-
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat-square&logo=github)](https://github.com/radhakrishnadeshpande)
-
-</div>
-
-`Django` `AWS` `MySQL` &nbsp;|&nbsp; `Python` `Flask` `Machine Learning` `Face Recognition`
-
----
-
-## 📄 Publications
-
-<div align="center">
-
-### 📰 Label-Free Adaptation of Indic Printed OCR
-**ICVGIP-2025**
-
-</div>
-
-> Proposed a **self-supervised, label-free domain adaptation** approach to improve OCR accuracy for low-resource Indic scripts — without any annotated training data.
-
-`Domain Adaptation` `Self-Supervised Learning` `Indic OCR` `Multilingual NLP`
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 ML & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Web & Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases & Search
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-6366F1?style=for-the-badge)
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=radhakrishnadeshpande&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=radhakrishnadeshpande&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhakrishnadeshpande&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8" width="50%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radhakrishnadeshpande&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff" width="98%"/>
+[![Tamil Handwritten Character Recognition](https://github.com/Saumya-svm/smai-project)]
+[![RookDB - Projection operator](https://github.com/radhakrishnadeshpande/RookDB/tree/projection)]
+[![Image Processing for Detecting Gravitational Lensing Features](https://github.com/radhakrishnadeshpande/dip_project)]
+[![DTDP DMS](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=DTDP-DMS&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/DTDP-DMS)
+[![Cloud POS](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=Cloud-Based-POS-with-face-recogizition&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/Cloud-Based-POS-with-face-recogizition)
+[![3D Website](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=3D-WEBSITE&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/3D-WEBSITE)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 🏅 Achievement | 📋 Details |
-|---|---|
-| 🧮 **Pre-Regional Math Olympiad** | Qualified during Intermediate studies — strong mathematical foundation |
-| 🎓 **Summer School on AI — 2024** | Certified participation in advanced AI curriculum |
-| ☕ **NPTEL Java Programming** | Online certification in Java (IIT/NIT program) |
-| 📰 **ICVGIP-2025 Publication** | Published research on Label-Free Indic OCR adaptation |
+<img src="https://github-readme-stats.vercel.app/api?username=radhakrishnadeshpande&show_icons=true&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f&text_color=3a3a3a&hide_border=false" alt="GitHub Stats" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhakrishnadeshpande&layout=compact&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f&text_color=3a3a3a" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=radhakrishnadeshpande&theme=default&border=2d6a4f&stroke=c8f0d8&ring=1a3a2a&fire=2d6a4f&currStreakNum=1a3a2a&sideNums=1a3a2a&currStreakLabel=2d6a4f&sideLabels=3a3a3a&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🤝 Soft Skills
+## 🏆 Highlights
 
 <div align="center">
 
 ```
-🧩 Problem Solving    🗣️ Communication    🎯 Leadership    ⏰ Time Management
-🌱 Adaptability       🤝 Teamwork         💡 Creativity    📋 Project Management
+📄  ICVGIP 2025  │  Label-Free Adaptation of Indic Printed OCR   
+🏅  Pre-Regional Math Olympiad Qualifier                             
+🎓  MS by Research, CSE — IIIT Hyderabad (2025–2027)
+🏛️  NPTEL Certified — Java Programming                              
+
 ```
 
 </div>
 
 ---
 
-## 📬 Connect with Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://linkedin.com/in/radhakrishnadeshpande">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:radhakrishnadeshpande@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/radhakrishnadeshpande">
-  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-> 💬 *"OCR is not just about reading text — it's about unlocking knowledge locked inside the visual world."*
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=radhakrishnadeshpande&bg_color=f7f5f0&color=1a3a2a&line=2d6a4f&point=1a3a2a&area=true&area_color=c8f0d8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+<!-- Wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,100:1a3a2a&height=100&section=footer" alt="footer"/>
+
+*"I build systems that read the world — one document at a time."*
+
+**⭐ Star a repo if you find something useful!**
+
+</div>
