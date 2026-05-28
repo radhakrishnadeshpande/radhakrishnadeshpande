@@ -85,10 +85,11 @@ rkd = {
 
 <div align="center">
 
-[![CLiGRA](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=Optical-Text-Recognizition&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/Optical-Text-Recognizition)
-[![Cloud POS](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=Cloud-Based-POS-with-face-recogizition&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/Cloud-Based-POS-with-face-recogizition)
-
+[![Tamil Handwritten Character Recognition](https://github.com/Saumya-svm/smai-project)]
+[![RookDB - Projection operator](https://github.com/radhakrishnadeshpande/RookDB/tree/projection)]
+[![Image Processing for Detecting Gravitational Lensing Features](https://github.com/radhakrishnadeshpande/dip_project)]
 [![DTDP DMS](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=DTDP-DMS&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/DTDP-DMS)
+[![Cloud POS](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=Cloud-Based-POS-with-face-recogizition&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/Cloud-Based-POS-with-face-recogizition)
 [![3D Website](https://github-readme-stats.vercel.app/api/pin/?username=radhakrishnadeshpande&repo=3D-WEBSITE&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f)](https://github.com/radhakrishnadeshpande/3D-WEBSITE)
 
 </div>
@@ -118,13 +119,11 @@ rkd = {
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│  📄  ICVGIP 2025  │  Label-Free Adaptation of Indic Printed OCR     │
-│  🏅  Pre-Regional Math Olympiad Qualifier                             │
-│  🎓  MS by Research, CSE — IIIT Hyderabad (2025–2027)               │
-│  🏛️  NPTEL Certified — Java Programming                              │
-│  🤖  AI Summer School 2024 — Certified                               │
-└──────────────────────────────────────────────────────────────────────┘
+📄  ICVGIP 2025  │  Label-Free Adaptation of Indic Printed OCR   
+🏅  Pre-Regional Math Olympiad Qualifier                             
+🎓  MS by Research, CSE — IIIT Hyderabad (2025–2027)
+🏛️  NPTEL Certified — Java Programming                              
+
 ```
 
 </div>
@@ -151,5 +150,4 @@ rkd = {
 **⭐ Star a repo if you find something useful!**
 
 </div>
-Done
 
