@@ -81,6 +81,6 @@ Also: Hugging Face, FAISS, NLTK, SQL.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,100:1a3a2a&height=100&section=footer" alt="footer"/>
 
-<sub>Open to research collaborations in OCR, multilingual NLP and retrieval.</sub>
+<div>Open to research collaborations in Physics Computer vision, Medical Imaging, Architectural implimentation in OCR, multilingual NLP and retrieval , Cosmology.</div>
 
 </div>
