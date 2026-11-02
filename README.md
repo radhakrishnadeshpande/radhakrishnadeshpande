@@ -20,13 +20,15 @@
 
 ---
 
+
 ## 👋 About
-
-MS by Research (CSE) at **IIIT Hyderabad** and Research engineer at **CVIT**. I build systems that read and search documents: OCR, multilingual NLP, and retrieval-augmented QA for low-resource Indic scripts.
-
-- 🔭 **Research:** cross-lingual retrieval and QA over noisy, multi-script archives (Hindi, English, Punjabi), intrested to explore the interdisciplinary research work like astrophysics,fluid dynamics physics with computer vision.
-- ⚙️ **Engineering:** Large scale data efficiet for any big DB for research.
-- 🌱 **Interests:** OCR, Domain adaptation, information retrieval, agentic RAG ,Astrophysics , Cosmology , Physics informatic computer vision , Medical Imaging , Interdisciplinary Research works.
+ 
+MS by Research (CSE) student at **IIIT Hyderabad** and research engineer at **CVIT**. I build systems that read and search documents: OCR, multilingual NLP, and retrieval-augmented QA for low-resource Indic scripts. I am also drawn to the places where computer vision meets the physical sciences.
+ 
+- 🔭 **Research:** cross-lingual retrieval and QA over noisy, multi-script archives (Hindi, English, Punjabi)
+- ⚙️ **Engineering:** efficient large-scale data systems for research, including high-throughput OCR pipelines, Elasticsearch search and database internals in Rust
+- 🌌 **Exploring:** interdisciplinary research that applies computer vision to astrophysics, cosmology, fluid dynamics and medical imaging
+- 🌱 **Interests:** physics-informed computer vision, OCR, domain adaptation, information retrieval, agentic RAG 
 
 ## 📄 Publications
 
