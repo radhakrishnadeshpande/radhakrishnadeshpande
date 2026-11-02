@@ -10,8 +10,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a3a2a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radha-krishna-deshpande/)
 [![Email](https://img.shields.io/badge/Email-2d6a4f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhakrishnadeshpande@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-1a3a2a?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=wgOwWB0AAAAJ&hl=en&authuser=3)
 [![CVIT](https://img.shields.io/badge/CVIT-IIIT%20Hyderabad-1a3a2a?style=for-the-badge)](https://cvit.iiit.ac.in)
 ![Profile views](https://komarev.com/ghpvc/?username=radhakrishnadeshpande&style=for-the-badge&color=2d6a4f&label=VIEWS)
+
 
 </div>
 
