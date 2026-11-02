@@ -29,8 +29,8 @@ MS by Research (CSE) at **IIIT Hyderabad** and engineer at **CVIT**. I build sys
 
 | Paper | Venue | Link |
 |---|---|---|
-| Reading Beyond OCR Noise: Robust Cross-Lingual RAG for Legislative Archives | CVIP 2026 | [Paper](#) |
-| Label-Free Adaptation of Indic Printed OCR | ICVGIP 2025 | [Paper](#) |
+| Reading Beyond OCR Noise: Robust Cross-Lingual RAG for Legislative Archives | CVIP 2026 | [Paper]() |
+| Label-Free Adaptation of Indic Printed OCR | ICVGIP 2025 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3774521.3774533) |
 
 ## 🚀 Selected Work
 
