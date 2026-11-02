@@ -66,18 +66,6 @@ Fine-tuned CRNN models, high-throughput OCR over thousands of document images, a
 
 Also: Hugging Face, FAISS, NLTK, SQL.
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=radhakrishnadeshpande&show_icons=true&theme=default&border_color=2d6a4f&title_color=1a3a2a&icon_color=2d6a4f&hide_border=false" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhakrishnadeshpande&layout=compact&theme=default&border_color=2d6a4f&title_color=1a3a2a" height="165" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=radhakrishnadeshpande&theme=default&border=2d6a4f&stroke=c8f0d8&ring=1a3a2a&fire=2d6a4f&currStreakNum=1a3a2a&sideNums=1a3a2a&currStreakLabel=2d6a4f" alt="Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radhakrishnadeshpande&bg_color=ffffff&color=1a3a2a&line=2d6a4f&point=1a3a2a&area=true&area_color=c8f0d8&hide_border=true" alt="Activity graph"/>
-
-</div>
 
 ## 🎓 Education
 
