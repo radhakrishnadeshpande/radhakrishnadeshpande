@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2a,100:2d6a4f&height=190&section=header&text=Radha%20Krishna%20Deshpande&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20IIIT%20Hyderabad&descAlignY=58&descSize=16&descColor=c8f0d8&animation=fadeIn" alt="header"/>
 
 <a href="https://github.com/radhakrishnadeshpande">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2D6A4F&center=true&vCenter=true&width=560&lines=OCR+%7C+Multilingual+NLP+%7C+Information+Retrieval;Building+systems+that+read+and+search+documents;Cross-lingual+RAG+for+Indic+archives;Label-Free+Indic+OCR+%E2%80%A2+ICVGIP+2025" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2D6A4F&center=true&vCenter=true&width=560&lines=OCR+%7C+Multilingual+NLP+%7C+Information+Retrieval;Building+systems+that+read+and+search+documents;READING-BEYOND-OCR-NOISE+%E2%80%A2+CVIP+2026;Cross-lingual+RAG+for+Indic+archives;Label-Free+Indic+OCR+%E2%80%A2+ICVGIP+2025" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
